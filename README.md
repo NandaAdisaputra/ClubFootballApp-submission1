@@ -1,5 +1,4 @@
-#ClubFootballApp-submission1
-Club Football Apps-master submission pertama kelas kade .
+ClubFootballApp-submission1
 Kelas kotlin google developer expert batch 2 2018
 Nama     : Nanda Adisaputra
 Jurusan  : Teknik Informatika
